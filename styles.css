@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: lightsteelblue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    background-color: lightgray;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid lightgray;
+}
+
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+h2 {
+    color: red;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type:circle;
+    margin-left: 20px;
+}
+
+ol {
+    list-style-type:decimal;
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    padding: 10px;
+}
